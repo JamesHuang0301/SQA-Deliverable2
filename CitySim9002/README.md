@@ -7,7 +7,7 @@
         3. Visitor class for visitors:like_dislike() displayleave() method.
         4. Generator class for random number generation.
   
-    2.Design Test
+    2.Test Design
         1. 4 Test classes for tatal 7 tests (BloggerTest StudentTest VisitorTest and CitySim9002Test)
         2. The test cotains edge case(input = 10) in CitySim9002 Test.
         3. In the CitySim9002Test, both doubles and stub are used.
