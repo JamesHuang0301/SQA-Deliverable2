@@ -13,6 +13,6 @@ Xih55@pitt.edu
   3  In the CitySim9002Test, both doubles and stub are used.
   
 The most difficult part in this project is how to design and write the test code.
-Additionally, I did not write generateVisitor() method in Citysim9002 in the very beginning which should return the right type of visitors.
+Additionally, I did not write generateVisitor() method in Citysim9002 successfully in the very beginning, which should return the right type of visitors, because of misunderstanding of it.
 
 All results are in the folder "TestResults".
